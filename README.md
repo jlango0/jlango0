@@ -16,7 +16,7 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
   - [Day 2 - Physical Interfaces & Cabling, 1.3](https://www.youtube.com/watch?v=l_K-uue9HlY)
     - Choose the correct type of cable based on—
       1. Which devices are being connected—i.e. straight vs. crossover
-      2. How far apart the devices are—i.e. copper vs. fiber-optic, including which type is most cost-efficient, given the requirements
+      2. How far apart the devices are—i.e. copper vs. fiber-optic, including which type is most cost-effective, given the requirements (speed, distance)
   - Day 3 - OSI Model and TCP/IP Suite--
     - No video, since this lab focuses on stepping through Simulation mode and studying PDUs moving through the layers
   - [Day 4 - Intro to the CLI / Basic Device Security](https://www.youtube.com/watch?v=ED62LgyCSAc)
