@@ -25,7 +25,7 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
 
 - Taking notes as I watch the lecture videos, and looking things up as needed.  A few examples--
   - For Interfaces, MDI vs. MDI-X devices and their pinouts
-    - Indirectly tied back into Core 1, since straight vs. crossover cables make more sense now
+    - Indirectly helped with Core 1, since straight vs. crossover cables make more sense now
   - For 1000BASE-LX, the maximum length for single-mode fiber
   - For IOS, [Cisco's man page for `enable password`](https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/enable_password.htm)
 
