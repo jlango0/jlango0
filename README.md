@@ -23,7 +23,7 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
     - Initial IOS commands for Routers and Switches
 
 
-- Taking notes as I watch the lecture / theory videos, and looking things up along the way as needed.  A few examples--
+- Taking notes as I watch the lecture videos, and looking things up as needed.  A few examples--
   - For Interfaces, MDI vs. MDI-X devices and their pinouts
     - Indirectly tied back into Core 1, since straight vs. crossover cables make more sense now
   - For 1000BASE-LX, the maximum length for single-mode fiber
