@@ -36,7 +36,7 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
     - Includes most steps, but lost part of the screen recording—laptop froze during the first attempt at installing the VM
 
    
-  - [Setting up Active Directory from scratch] (same for this video), using DomainName.local
+  - [Setting up Active Directory from scratch](https://www.youtube.com/watch?v=KhLQ1F18His), using DomainName.local
     - Following [this video](https://www.youtube.com/watch?v=GsmJowwIh8Q&list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ&index=6), with a few minor adjustments
     - Add Organizational Units for—
       - Regions:  USA, Europe, Asia
@@ -46,7 +46,7 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
             - Add 3 employees per department
           - Security Groups > Members tab > add the 3 corresponding employees
           - Also inside the OUs for Computers and Servers, add devices accordingly
-    - Completed this for the USA OU, other regions will be after I learn some PowerShell
+    - Completed this for the USA OU, will complete other regions after I can automate some of these steps in PowerShell
     - Moving to Group Policy next
 
 
