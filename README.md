@@ -30,7 +30,7 @@ Also taking notes as I watch the lecture videos, and looking things up as needed
   - 5 km in the video, although evidently there's a newer version that supports 10 km, as well
 - For IOS, [Cisco's man page for `enable password`](https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/enable_password.htm)
   - Reading about the arguments, although LINE actually isn't in the man page, despite being listed if you enter `enable password ?` in Global Configuration Mode
-  - [IOS Screenshot](IOS-Screenshot.png)
+  - [IOS Screenshot](/IOS-Screenshot.png?raw=true "Screenshot of Cisco IOS CLI, where Router's response to the command includes a different argument than the man page]
 
 
 ## Active Directory and VMWare
