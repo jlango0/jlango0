@@ -10,7 +10,7 @@ The following topics are outside of Core 1's objectives, so they're new—but I'
 ## Cisco Packet Tracer Labs
 Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ">this course playlist</a> by Jeremy's IT Lab
 
-- **_Time-lapse_** videos of working through the labs--
+- **_Time-lapse_** videos of working through the labs—
   - [Day 1 - Network Devices, 1.1](https://www.youtube.com/watch?v=bgAhSzdRn5k)
     - Create a network diagram based on an image in the lecture; intro to using Packet Tracer
   - [Day 2 - Physical Interfaces & Cabling, 1.3](https://www.youtube.com/watch?v=l_K-uue9HlY)
