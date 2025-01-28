@@ -32,7 +32,7 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
 
 ## Active Directory and VMWare
 
-  - [Setting up Windows Server 2022 on VMWare Workstation Pro](https://www.youtube.com/watch?v=YmsB81pi2pc)
+  - [Installing Windows Server 2022 on VMWare Workstation Pro](https://www.youtube.com/watch?v=YmsB81pi2pc)
     - Includes most steps, but lost part of the screen recording—laptop froze during the first attempt at installing the VM
 
    
