@@ -23,11 +23,14 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
   - Initial IOS commands for Routers and Switches
 
 
-Taking notes as I watch the lecture videos, and looking things up as needed.  A few examples--
+Also taking notes as I watch the lecture videos, and looking things up as needed.  A few examples--
 - For Interfaces, MDI vs. MDI-X devices and their pinouts
   - Indirectly helped with Core 1, since straight vs. crossover cables make more sense now
 - For 1000BASE-LX, the maximum length for single-mode fiber
+  - 5 km in the video, although evidently there's a newer version that supports 10 km, as well
 - For IOS, [Cisco's man page for `enable password`](https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/cmdrefs/enable_password.htm)
+  - Reading about the arguments, although LINE actually isn't in the man page, despite being listed if you enter `enable password ?` in Global Configuration Mode
+  - [IOS Screenshot](IOS-Screenshot.png)
 
 
 ## Active Directory and VMWare
