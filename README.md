@@ -32,6 +32,8 @@ Following <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzl
 
 ## Active Directory and VMWare
 Following [this video](https://www.youtube.com/watch?v=GsmJowwIh8Q&list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ&index=6) by East Charmer, with a few minor adjustments
+
+
 Also time-lapse videos below
 
   - [Installing Windows Server 2022 on VMWare Workstation Pro](https://www.youtube.com/watch?v=YmsB81pi2pc)
