@@ -54,7 +54,7 @@ Time-lapse videos of installation and setup—
         - Also inside the OUs for Computers and Servers, add devices accordingly
   - Completed this for the USA OU, will complete other regions after I can automate some of these steps in PowerShell
   - Moving to Group Policy next
-
+  - ![Active Directory Screenshot](/Active-Directory-Screenshot.png?raw=true "Screenshot of Active Directory Users and Computers window, opened to Engineering Security Group's Properties, with multiple Users being added to the group via a text field")
 
 <!--
 **jlango0/jlango0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
